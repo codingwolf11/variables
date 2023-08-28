@@ -11,7 +11,7 @@ console.log("Hello",person);
  
  var greeting = "Hello"
   console.log(greeting,person)
-  greeting = 'hi'
-  person = 'James'
+  greeting = 'How you doing today?'
+  person = 'Perla'
   console.log(greeting,person)
  */
